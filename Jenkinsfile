@@ -14,7 +14,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/khuzaifawahab2006-del/AST07-Project1.git/AST07-Project1.git'
+                   https://github.com/khuzaifawahab2006-del/AST07-Project1.git
             }
         }
 
